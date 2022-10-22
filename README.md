@@ -2,7 +2,7 @@
 
 I'm Harsha Vardhan, a full-time computer science student majoring in cyber security.
 
-[![Twitter Badge](https://img.shields.io/badge/@harshav167-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harshav167) [![Linkedin Badge](https://img.shields.io/badge/Harsha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/hxrsha.v-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/islempenywis)
+[![Twitter Badge](https://img.shields.io/badge/@harshav167-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/harshav167) [![Linkedin Badge](https://img.shields.io/badge/Harsha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha---vardhan/) [![Mail Badge](https://img.shields.io/badge/hxrsha.v-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hxrsha.v)
 [![website Badge](https://img.shields.io/badge/website-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.harsha.link)
 [![Mail Badge](https://img.shields.io/badge/mail@harsha.link-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:Mail@harsha.link)
 
